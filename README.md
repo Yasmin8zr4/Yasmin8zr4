@@ -16,7 +16,7 @@
   </a>
 </div>
 
-Sou criador de conteúdo na [Alura | Cursos online de Tecnologia](https://github.com/alura-cursos/) e na [DotcodeEdu](https://www.youtube.com/c/DotcodeEdu);
+Sou criador de conteúdo de Flutter na [Alura | Cursos online de Tecnologia](https://github.com/alura-cursos/) e na [Dotcode](https://www.youtube.com/c/DotcodeEdu);
 
 :man_student: Sistemas de Informação - [CIn UFPE](https://portal.cin.ufpe.br/);
 
