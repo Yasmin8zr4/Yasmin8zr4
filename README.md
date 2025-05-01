@@ -33,8 +33,8 @@ Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando com
 
 ## 📚 Quer aprender Flutter comigo?
 
-👉 [Veja meus cursos na Alura](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor)  
-📺 [Tutoriais gratuitos no canal Dotcode](https://www.youtube.com/c/DotcodeEdu)
+- 👉 [Veja meus cursos na Alura](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor)  
+- 📺 [Tutoriais gratuitos no canal Dotcode](https://www.youtube.com/c/DotcodeEdu)
 
 ---
 <div align="center">
