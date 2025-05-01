@@ -1,6 +1,5 @@
-<img src = ".github/dotcode.png" width = "270px" align = "right">
-
 # Fala galera! Meu nome é Ricarth Lima 👩‍💻
+<img src = ".github/dotcode.png" width = "270px" align = "right">
 
 <div id="badges">  
   <a href = "https://www.youtube.com/c/DotcodeEdu">
