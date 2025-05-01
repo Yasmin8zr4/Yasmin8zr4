@@ -11,7 +11,7 @@ Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando com
 
 ## 💼 Experiência
 
-- Instrutor em cursos na [Alura](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor)
+- Instrutor em [cursos](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor) na Alura
 - Criador de conteúdo educacional na [Dotcode](https://www.youtube.com/c/DotcodeEdu)
 - Participei do desenvolvimento de jogos para o [SuperSUS - Fiocruz](https://supersus.fiocruz.br/)
 - Desenvolvedor em diversos projetos com foco em aplicações multiplataforma e jogos mobile
