@@ -4,10 +4,10 @@
 
 Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando como instrutor na [Alura](https://cursos.alura.com.br/user/ricarth-lima#:~:text=Todos%20os%20cursos%20deste%20instrutor) e fundador da [Dotcode](https://www.youtube.com/c/DotcodeEdu), canal com tutoriais e dicas sobre desenvolvimento mobile e jogos.
 
-🎓 Bacharel em **Sistemas de Informação** pela [Universidade Federal de Pernambuco](https://portal.cin.ufpe.br/)  
-💙 Em um relacionamento sério com **Flutter** e **Unity2D**  
-⚡ Fun fact: sou perdidamente apaixonado por narrar histórias de RPG, inclusive estou criando meu próprio sistema!  
-🎯 Quer saber mais sobre o que faço com Flutter? Começa pelo meu repositório do [Audiodrama RPG]().
+- 🎓 Bacharel em **Sistemas de Informação** pela [Universidade Federal de Pernambuco](https://portal.cin.ufpe.br/)  
+- 💙 Em um relacionamento sério com **Flutter** e **Unity2D**  
+- ⚡ Fun fact: sou perdidamente apaixonado por narrar histórias de RPG, estou desenvolvendo meu próprio sistema!  
+- 🎯 Quer saber mais sobre o que faço com Flutter? Começa pelo meu repositório do [Audiodrama RPG]().
 
 ## 💼 Experiência
 
@@ -27,7 +27,7 @@ Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando com
   <br><br>
 </div>
 
-- 🧠 **Tecnologias dominantes:** Dart, Flutter, Python e C#
+- 🧠 **Principais tecnologias:** Dart, Flutter, Python e C#
 - 💻 **IDEs:** VS Code, Unity IDE <br>
 - 🔧 **Ferramentas:** Git & GitHub, Firebase, Supabase
 
@@ -38,6 +38,6 @@ Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando com
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricarthlima&layout=compact&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&layout=compact&theme=github_dark&count_private=true" width="48%"/>
 </div>
