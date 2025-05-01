@@ -1,4 +1,4 @@
-# Fala galera! Eu sou o Ricarth Lima 👋
+# Fala galera! Meu nome é Ricarth Lima 👋
 
 ## 🧑‍🏫 Sobre mim
 
@@ -15,7 +15,7 @@ Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando com
 - Criador de conteúdo educacional na [Dotcode](https://www.youtube.com/c/DotcodeEdu)
 - Participei do desenvolvimento de jogos para o [SuperSUS - Fiocruz](https://supersus.fiocruz.br/)
 - Desenvolvedor em diversos projetos com foco em aplicações multiplataforma e jogos mobile
-
+  
 ## 🛠 Tecnologias & Ferramentas
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -27,34 +27,17 @@ Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando com
   <br><br>
 </div>
 
+- 🧠 **Tecnologias dominantes:** Dart, Flutter, Python e C#
 - 💻 **IDEs:** VS Code, Unity IDE <br>
 - 🔧 **Ferramentas:** Git & GitHub, Firebase, Supabase
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&theme=bear&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&layout=compact&theme=bear&count_private=true"/>
-</div>
 
 ## 📚 Quer aprender Flutter comigo?
 
 👉 [Veja meus cursos na Alura](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor)  
 📺 [Tutoriais gratuitos no canal Dotcode](https://www.youtube.com/c/DotcodeEdu)
 
-## 🌐 Vamos nos conectar!
-
-<div id="badges">
-  <a href="https://www.youtube.com/c/DotcodeEdu" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-d83b7d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://instagram.com/ricarthlima" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1e0e31?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://github.com/ricarthlima" target="_blank">
-    <img src="https://img.shields.io/github/followers/ricarthlima?style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/ricarthlima" target="_blank">
-    <img src="https://img.shields.io/github/stars/ricarthlima?style=social" alt="GitHub Stars"/>
-  </a>
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricarthlima&layout=compact&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&layout=compact&theme=github_dark&count_private=true" width="48%"/>
 </div>
