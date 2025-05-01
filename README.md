@@ -2,7 +2,7 @@
 
 ## 🧑‍🏫 Sobre mim
 
-Sou criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando como instrutor na [Alura](https://cursos.alura.com.br/user/ricarth-lima#:~:text=Todos%20os%20cursos%20deste%20instrutor) e fundador da [Dotcode](https://www.youtube.com/c/DotcodeEdu), canal com tutoriais e dicas sobre desenvolvimento mobile e jogos.
+Sou desenvolvedor e criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando como instrutor na [Alura](https://cursos.alura.com.br/user/ricarth-lima#:~:text=Todos%20os%20cursos%20deste%20instrutor) e fundador da [Dotcode](https://www.youtube.com/c/DotcodeEdu), canal com tutoriais e dicas sobre desenvolvimento mobile e jogos.
 
 - 🎓 Bacharel em **Sistemas de Informação** pela [Universidade Federal de Pernambuco](https://portal.cin.ufpe.br/)  
 - 💙 Em um relacionamento sério com **Flutter** e **Unity2D**  
