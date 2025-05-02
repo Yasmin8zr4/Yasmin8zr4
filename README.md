@@ -35,9 +35,11 @@ Sou desenvolvedor e criador de conteúdo especializado em **Flutter** e **Unity2
 
 - 👉 [Veja meus cursos na Alura](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor)  
 - 📺 [Tutoriais gratuitos no canal Dotcode](https://www.youtube.com/c/DotcodeEdu)
-
+<!--
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&layout=compact&theme=github_dark&count_private=true" width="48%"/>
 </div>
+-->
