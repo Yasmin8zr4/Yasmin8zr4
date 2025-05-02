@@ -7,7 +7,7 @@ Sou desenvolvedor e criador de conteúdo especializado em **Flutter** e **Unity2
 - 🎓 Bacharel em **Sistemas de Informação** pela [Universidade Federal de Pernambuco](https://portal.cin.ufpe.br/)  
 - 💙 Em um relacionamento sério com **Flutter** e **Unity2D**  
 - ⚡ Fun fact: sou perdidamente apaixonado por narrar histórias de RPG, estou desenvolvendo meu próprio sistema!  
-- 🎯 Quer saber mais sobre o que faço com Flutter? Começa pelo meu repositório do [Audiodrama RPG]().
+- 🎯 Quer saber mais sobre o que faço com Flutter? Começa pelo meu repositório do [Audiodrama RPG](https://github.com/ricarthlima/flutter_adrpg_public).
 
 ## 💼 Experiência
 
