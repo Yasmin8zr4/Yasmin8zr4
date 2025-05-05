@@ -1,21 +1,12 @@
-# Fala galera! Meu nome é Ricarth Lima 👋
+# Oii gente! Meu nome é Yasmin Bzra 👋
 
 ## 🧑‍🏫 Sobre mim
 
-Sou desenvolvedor e criador de conteúdo especializado em **Flutter** e **Unity2D**, atuando como instrutor na [Alura](https://cursos.alura.com.br/user/ricarth-lima#:~:text=Todos%20os%20cursos%20deste%20instrutor) e fundador da [Dotcode](https://www.youtube.com/c/DotcodeEdu), canal com tutoriais e dicas sobre desenvolvimento mobile e jogos.
+Sou desenvolvedora, atuando como competidora na [Nine Tails #9219](https://github.com/nine-tails-9219).
 
-- 🎓 Bacharel em **Sistemas de Informação** pela [Universidade Federal de Pernambuco](https://portal.cin.ufpe.br/)  
-- 💙 Em um relacionamento sério com **Flutter** e **Unity2D**  
-- ⚡ Fun fact: sou perdidamente apaixonado por narrar histórias de RPG, estou desenvolvendo meu próprio sistema!  
-- 🎯 Quer saber mais sobre o que faço com Flutter? Começa pelo meu repositório do [Audiodrama RPG](https://github.com/ricarthlima/flutter_adrpg_public).
-
-## 💼 Experiência
-
-- Instrutor em [cursos](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor) na Alura
-- Criador de conteúdo educacional na [Dotcode](https://www.youtube.com/c/DotcodeEdu)
-- Participei do desenvolvimento de jogos para o [SuperSUS - Fiocruz](https://supersus.fiocruz.br/)
-- Desenvolvedor em diversos projetos com foco em aplicações multiplataforma e jogos mobile
-  
+- 🎓 Estudante Técnica em **Desenvolvimentos de Sistemas** pela [Firjan Senai](https://www.firjan.com.br/senai/default.htm))  
+- ⚡ Fun fact: sou perdidamente apaixonada por engenharia, estou estudando para me graduar no [ITA](http://www.ita.br/)!  
+ 
 ## 🛠 Tecnologias & Ferramentas
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -27,16 +18,8 @@ Sou desenvolvedor e criador de conteúdo especializado em **Flutter** e **Unity2
   <br><br>
 </div>
 
-- 🧠 **Principais tecnologias:** Dart, Flutter, Python e C#
-- 💻 **IDEs:** VS Code, Unity IDE <br>
-- 🔧 **Ferramentas:** Git & GitHub, Firebase, Supabase
-
-## 📚 Quer aprender Flutter comigo?
-
-- 👉 [Veja meus cursos na Alura](https://cursos.alura.com.br/user/ricarth-lima#cursos-deste-instrutor)  
-- 📺 [Tutoriais gratuitos no canal Dotcode](https://www.youtube.com/c/DotcodeEdu)
-<!--
----
+- 🧠 **Principais tecnologias:** Java, Python e HTML
+- 🔧 **Ferramentas:** WPILib, GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
