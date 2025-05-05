@@ -22,7 +22,6 @@ Sou desenvolvedora, atuando como competidora na [Nine Tails #9219](https://githu
 - 🔧 **Ferramentas:** WPILib, GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true&theme=github_dark&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&layout=compact&theme=github_dark&count_private=true" width="48%"/>
 </div>
 -->
