@@ -17,7 +17,7 @@ Competi na categoria FRC da First como parte da equipe de programação da [Nine
   <br><br>
 </div>
 
-- 🧠 **Principais tecnologias:** Java, Python e HTML
+- 🧠 **Principais tecnologias:** Java, Python, React e HTML
 - 🔧 **Ferramentas:** WPILib, GitHub, VSCode
 
 <div align="center">
